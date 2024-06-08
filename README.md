@@ -1,2 +1,17 @@
 # FMIST_classification
-Classification of the FMIST with PyTorch.
+# Модель классификации Fashion MNIST с использованием PyTorch
+
+Этот проект представляет собой модель классификации Fashion MNIST с использованием глубокого обучения и фреймворка PyTorch.
+
+## Описание проекта
+
+Цель этого проекта - создать модель машинного обучения, которая может классифицировать изображения одежды из набора данных Fashion MNIST. Модель использует предварительно обученную нейронную сеть ResNet101 для улучшения результатов.
+
+## Используемые библиотеки
+
+- NumPy
+- Pandas
+- PyTorch
+- Torchvision
+- PIL (Python Imaging Library)
+- scikit-learn
